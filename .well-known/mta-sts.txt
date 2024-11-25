@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: *.mail.protection.outlook.com
+mx: marchetta-tech.s-v1.mx.microsoft
 max_age: 2419200
